@@ -29,7 +29,7 @@
     let paintersSelect = (<HTMLSelectElement>document.getElementById('PainterList'));
     paintersSelect.onchange = () => this.loadRecipes();
 
-    let painterLoader = new Painter.PainterLoader("/json/famousPainters.json");
+    let painterLoader = new Painter.PainterLoader("json/famousPainters.json");
 
     painterLoader.load().then((recipeData: Interfaces.IPainterData) =>
     {
