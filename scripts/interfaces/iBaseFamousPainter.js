@@ -1,0 +1,1 @@
+//# sourceMappingURL=iBaseFamousPainter.js.map
