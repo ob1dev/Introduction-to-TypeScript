@@ -11,21 +11,21 @@
           "name": "David",
           "year": "1501 - 1504",
           "type": "Marble statue",
-          "image": "/images/Michelangelo/David.jpg"
+          "image": "images/Michelangelo/David.jpg"
         },
 
         {
           "name": "Sistine Chapel",
           "year": "1508 - 1512",
           "type": "Fresco",
-          "image": "/images/Michelangelo/Sistine-Chapel.jpg"
+          "image": "images/Michelangelo/Sistine-Chapel.jpg"
         },
 
         {
           "name": "The Last Judgement",
           "year": "1536 - 1541",
           "type": "Fresco",
-          "image": "/images/Michelangelo/Last-Judgement.jpg"
+          "image": "images/Michelangelo/Last-Judgement.jpg"
         }
       ]
     },
@@ -40,21 +40,21 @@
           "name": "School at Athens",
           "year": "1509 - 1511",
           "type": "Fresco",
-          "image": "/images/Raphael/School-at-Athens.jpg"
+          "image": "images/Raphael/School-at-Athens.jpg"
         },
 
         {
           "name": "Lucretia",
           "year": "1508 - 1510",
           "type": "Oil on canvas",
-          "image": "/images/Raphael/Lucretia.jpg"
+          "image": "images/Raphael/Lucretia.jpg"
         },
 
         {
           "name": "Saint George and the Dragon",
           "year": "1504 - 1506",
           "type": "Oil on wood",
-          "image": "/images/Raphael/Saint-George-and-the-Dragon.jpg"
+          "image": "images/Raphael/Saint-George-and-the-Dragon.jpg"
         }
       ]
     },
@@ -69,21 +69,21 @@
           "name": "Self-portrait",
           "year": "1889",
           "type": "Oil on canvas",
-          "image": "/images/Vincent van Gogh/Self-portrait.jpg"
+          "image": "images/Vincent van Gogh/Self-portrait.jpg"
         },
 
         {
           "name": "The Starry Night",
           "year": "1889",
           "type": "Oil on canvas",
-          "image": "/images/Vincent van Gogh/The-Starry-Night.jpg"
+          "image": "images/Vincent van Gogh/The-Starry-Night.jpg"
         },
 
         {
           "name": "The Yellow House",
           "year": "1888",
           "type": "Oil on canvas",
-          "image": "/images/Vincent van Gogh/The-Yellow-House.jpg"
+          "image": "images/Vincent van Gogh/The-Yellow-House.jpg"
         }
       ]
     },
@@ -98,21 +98,21 @@
           "name": "Morning on the Seine",
           "year": "1897 - 1898",
           "type": "Oil on canvas",
-          "image": "/images/Claude Monet/Morning-on-the-Seine.jpg"
+          "image": "images/Claude Monet/Morning-on-the-Seine.jpg"
         },
 
         {
           "name": "The Woman in the Green Dress",
           "year": "1866",
           "type": "Oil on canvas",
-          "image": "/images/Claude Monet/The-Woman-in-the-Green-Dress.jpg"
+          "image": "images/Claude Monet/The-Woman-in-the-Green-Dress.jpg"
         },
 
         {
           "name": "Sunrise",
           "year": "1872",
           "type": "Oil on canvas",
-          "image": "/images/Claude Monet/Sunrise.jpg"
+          "image": "images/Claude Monet/Sunrise.jpg"
         }
       ]
     },
@@ -127,19 +127,19 @@
           "name": "The Milkmaid",
           "year": "1657 - 1658 ",
           "type": "Oil on canvas",
-          "image": "/images/Johannes Vermeer/The-Milkmaid.jpg"
+          "image": "images/Johannes Vermeer/The-Milkmaid.jpg"
         },
         {
           "name": "Girl with a Pearl Earring",
           "year": "1665",
           "type": "Oil on canvas",
-          "image": "/images/Johannes Vermeer/Girl-with-a-Pearl-Earring.jpg"
+          "image": "images/Johannes Vermeer/Girl-with-a-Pearl-Earring.jpg"
         },
         {
           "name": "The Music Lesson",
           "year": "1662 - 1665",
           "type": "Oil on canvas",
-          "image": "/images/Johannes Vermeer/The-Music-Lesson.jpg"
+          "image": "images/Johannes Vermeer/The-Music-Lesson.jpg"
         }
       ]
     }
