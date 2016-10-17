@@ -44,7 +44,7 @@
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="JSON\famousPainters.json" />
+    <Content Include="json\famousPainters.json" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="scripts\app.ts" />
